@@ -1,6 +1,7 @@
 Bankist is a sleek and user-friendly banking application designed for modern finance management. It allows users to seamlessly check balances, transfer money, monitor transactions, and manage accounts with ease. Featuring a minimalist interface, Bankist ensures a smooth, secure, and efficient online banking experience for everyday financial needs.
 
 Logins
+
 Account1:
   - username: TH
   - password: 1111
